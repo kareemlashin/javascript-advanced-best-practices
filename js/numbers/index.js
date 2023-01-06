@@ -1,0 +1,5 @@
+Number()
+isNaN()
+Number.isInteger()
+Number.parseInt()
+Number.parseFloat()

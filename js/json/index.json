@@ -1,0 +1,12 @@
+{
+    "json": "JavaScript Object Notation",
+    "data": [{
+        "name": "ddsdd",
+        "age": 30
+    }],
+    "employees":[
+        {"firstName":"John", "lastName":"Doe"},
+        {"firstName":"Anna", "lastName":"Smith"},
+        {"firstName":"Peter", "lastName":"Jones"}
+    ]
+}
